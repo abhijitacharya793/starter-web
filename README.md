@@ -2,6 +2,8 @@
 
 This repository is for showing how Git and GitHub work
 
+bla bla stash
+
 ## Purpose
 
 Stash
